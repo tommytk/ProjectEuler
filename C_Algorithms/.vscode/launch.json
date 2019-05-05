@@ -1,0 +1,14 @@
+{
+    "name": "C++ Launch (Windows)",
+    "type": "cppvsdbg",
+    "request": "launch",
+    "program": "C:\\Development\\C Programming\\C_Algorithms\\a.exe",
+    "symbolSearchPath": "C:\\Symbols;C:\\SymbolDir2",
+    "externalConsole": true,
+    "logging": {
+        "moduleLoad": false,
+        "trace": true
+     },
+    "visualizerFile": "${workspaceRoot}/my.natvis",
+    "showDisplayString": true
+ }
